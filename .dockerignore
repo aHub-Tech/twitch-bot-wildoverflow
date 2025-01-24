@@ -2,8 +2,8 @@
 /tests
 
 # docker configuration files
-Dockerfile
-docker-compose.yml
+docker/Dockerfile
+docker/docker-compose.yml
 
 # environments
 .env
